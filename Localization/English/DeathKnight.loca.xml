@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h685376d9g6551g45ebgae2ag0a174dbfa69f" version="1">An ancient rusting blade, It's been by your side for as long as you can remember. You see the letters M.M. engraved on the pommel..</content>
+	<content contentuid="hfe18eb17g59bdg4775g9075ga19f49080baf" version="1">Ancient Burial Blade</content>
+	<content contentuid="h991644b5g2a46g44e7gba7cg45daf9ec2b5b" version="1">HeartStrike</content>
+	<content contentuid="ha91ed8ddged86g447agb8aag6363f3a8ee17" version="1">Deliver a strike that siphons your target's soul, granting you Temporary HP equal to your Death Knight level plus your Wisdom modifier.</content>
+	<content contentuid="h0e7892ebgcbefg410bg913cg9792e3850158" version="1">Bonecage</content>
+	<content contentuid="had9f5a94g3bafg4b2bgbd57g30a2fddb8789" version="1">While you have Temporary HP, you have Resistance to Slashing, Bludgeoning, and Piercing damage.</content>
+	<content contentuid="h7a8a6d87gee06g4315gb088g35a4f63e8946" version="1">Tyrant's Protection</content>
+	<content contentuid="he4e5a668gc080g4cbaga867gf1bbaf3cb376" version="1">While you have Temporary HP, you have +1 to AC.</content>
+	<content contentuid="h081b6aeag04c8g4b18gac40gc2d7dd3cb6c8" version="1">DeathMantle</content>
+	<content contentuid="hd6ca677dgac1dg44c8g8217g1991c20f616f" version="1">Your unholy will manifests itself in your armor, harming foes who manage to land a hit. Enemies take Necrotic damage equal to twice your Wisdom Modifier when they damage you with an Attack.</content>
+	<content contentuid="haecff2fbgf630g478cga6d5g0fe1e73b03e1" version="1">Unholy Weapon</content>
+	<content contentuid="hd22bba2egdc74g4118ga101g1176e4e6a351" version="1">Your attacks are infused with unholy might. Attacks gain Necrotic damage equal to your Wisdom modifier.</content>
+	<content contentuid="hcd3a67eag4adbg4153g9ce9g822e5cfd65d5" version="1">Necrosis</content>
+	<content contentuid="he8fd6620g4874g4c6cgbff6g2f6d4bbd144a" version="1">Necrotic Resistance</content>
+	<content contentuid="h23c4a6degfb87g44b5ga366g06003a47830d" version="1">Spite</content>
+	<content contentuid="h8e1dde8eg0684g475cga8eeg0cad2f5abc48" version="1">You create a foul pulse of energy, damaging foes and drawing their ire. In a 3m radius, deal Necrotic damage equal to your Death Knight level plus your Wisdom modifier, Goading enemies who fail a Wisdom save against this ability. </content>
+	<content contentuid="h63d6e92bg81ffg4a9ega6c3gfb7b7e377914" version="1">Spite</content>
+	<content contentuid="h7f98ce17g1992g4e96g8e93ge95f52fa1993" version="1">Regain on Short Rest</content>
+	<content contentuid="h9b8f317cgbfcdg4d77g8dcfgbca848fdd9c4" version="1">Ancient Helmet</content>
+	<content contentuid="hfaafcf46g583dg4a61gaf8bge3c7c368ebf5" version="1">You woke wearing this helmet, it feels familiar and under the visor you see the Initials M.M.</content>
+	<content contentuid="hde84a52bgd5c9g4e68gb819g812df561c743" version="1">Hellfire Orb</content>
+	<content contentuid="h1eb1f769g96d0g4240g9269gdfda0073fc97" version="1">You launch a blast of cursed energy, dealing 4d6 Fire plus 4d6 Necrotic damage in an area.</content>
+	<content contentuid="h272ddf49g8becg4f15gb7d1g0665f54f8fbd" version="1">Dark Grasp</content>
+</contentList>
