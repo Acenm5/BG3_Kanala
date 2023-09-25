@@ -10,18 +10,18 @@
 					<attribute id="Level" type="uint8" value="1" />
 					<attribute id="Name" type="LSString" value="Kanala" />
 					<attribute id="ProgressionType" type="uint8" value="0" />
-					<attribute id="Selectors" type="LSString" value="SelectSkills(6a4f8598-3a17-42d1-beac-d7ced582bafa,2);AddSpells(f8799582-ef4c-49b7-88eb-2120aecab569);SelectPassives(da3203d8-750a-4de1-b8eb-1eccfccddf46,1,FightingStyle);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)" />
+					<attribute id="Selectors" type="LSString" value="SelectSkills(,2);AddSpells();SelectPassives(,1,FightingStyle);SelectAbilityBonus(,AbilityBonus,2,1)" />
 					<attribute id="TableUUID" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f" />
 					<attribute id="UUID" type="guid" value="eac83edc-3593-4562-a920-8e57fdfe12f9" />
 				</node>
 				<node id="Progression">
 					<attribute id="AllowImprovement" type="bool" value="false" />
-					<attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Charisma);ProficiencyBonus(SavingThrow,Constitution);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(MartialWeapons)" />
+					<attribute id="Boosts" type="LSString" value="Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(MartialWeapons)" />
 					<attribute id="IsMulticlass" type="bool" value="true"/>
 					<attribute id="Level" type="uint8" value="1" />
 					<attribute id="Name" type="LSString" value="Kanala" />
 					<attribute id="ProgressionType" type="uint8" value="0" />
-					<attribute id="Selectors" type="LSString" value="SelectSkills(6a4f8598-3a17-42d1-beac-d7ced582bafa,2);AddSpells(f8799582-ef4c-49b7-88eb-2120aecab569);SelectPassives(da3203d8-750a-4de1-b8eb-1eccfccddf46,1,FightingStyle);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)" />
+					<attribute id="Selectors" type="LSString" value="AddSpells();SelectPassives(,1,FightingStyle)" />
 					<attribute id="TableUUID" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f" />
 					<attribute id="UUID" type="guid" value="c6d58a16-4a2b-4643-992a-fd51e8e13e57" />
 				</node>
