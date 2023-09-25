@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="1" minor="0" revision="0" build="1"/>
+	<region id="ProgressionDescriptions">
+		<node id="root">
+			<children>
+				<node id="ProgressionDescription">
+					<attribute id="Description" type="FixedString" value="ClassDescriptions_Kanala_Description"/>
+					<attribute id="DisplayName" type="FixedString" value="ClassDescriptions_Kanala_DisplayName"/>
+					<attribute id="Hidden" type="bool" value="false"/>
+					<attribute id="ProgressionTableId" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f"/>
+					<attribute id="UUID" type="guid" value="c2d41fa7-bc77-44d0-ac22-845742b3110c"/>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

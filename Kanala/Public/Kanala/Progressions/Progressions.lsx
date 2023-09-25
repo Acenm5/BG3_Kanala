@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="1" minor="0" revision="0" build="1"/>
+	<region id="Progressions">
+		<node id="root">
+			<children>
+				<node id="Progression">
+					<attribute id="AllowImprovement" type="bool" value="false"/>
+					<attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Charisma);ProficiencyBonus(SavingThrow,Constitution);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(MartialWeapons)"/>
+					<attribute id="Level" type="uint8" value="1"/>
+					<attribute id="Name" type="LSString" value="Kanala"/>
+					<attribute id="ProgressionType" type="uint8" value="0"/>
+					<attribute id="TableUUID" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f"/>
+					<attribute id="UUID" type="guid" value="eac83edc-3593-4562-a920-8e57fdfe12f9"/>
+				</node>
+				<node id="Progression">
+					<attribute id="AllowImprovement" type="bool" value="false"/>
+					<attribute id="Boosts" type="LSString" value="Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);Proficiency(SimpleWeapons);Proficiency(MartialWeapons)"/>
+					<attribute id="IsMulticlass" type="bool" value="true"/>
+					<attribute id="Level" type="uint8" value="1"/>
+					<attribute id="Name" type="LSString" value="Kanala"/>
+					<attribute id="ProgressionType" type="uint8" value="0"/>
+					<attribute id="TableUUID" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f"/>
+					<attribute id="UUID" type="guid" value="c6d58a16-4a2b-4643-992a-fd51e8e13e57"/>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
