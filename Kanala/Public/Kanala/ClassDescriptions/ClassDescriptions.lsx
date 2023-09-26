@@ -12,18 +12,19 @@
 					<attribute id="HpPerLevel" type="int32" value="6"/>
 					<attribute id="IsDefaultForUseSpellAction" type="bool" value="true"/>
 					<attribute id="LearningStrategy" type="uint8" value="1"/>
-					<attribute id="MustPrepareSpells" type="bool" value="false"/>
+					
 					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Kanala"/>
-					<attribute id="CanLearnSpells" type="bool" value="false" />
+					
 					<attribute id="Name" type="FixedString" value="Kanala"/>
 					<attribute id="PrimaryAbility" type="uint8" value="2"/>
 					<attribute id="ProgressionTableUUID" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f"/>
 					<attribute id="SoundClassType" type="FixedString" value="Warlock"/>
 					<attribute id="SpellCastingAbility" type="uint8" value="6"/>
+					<attribute id="SpellList" type="guid" value="ea766b40-e4e5-4edc-9fc4-cbb4af51a5b8"/>
 					<attribute id="UUID" type="guid" value="df552993-507d-4e82-ba64-4f767d3163e8"/>
 					<children>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="5804f55a-93f7-4281-9512-8d548a9e2a22"/> Dialogue tag WARLOCK (TODO?)
+                            <attribute id="Object" type="guid" value="18266c0b-efbc-4c80-8784-ada4a37218d7"/> Dialogue tag SORCERER (TODO?)
                         </node>
 						<node id="Tags">
                             <attribute id="Object" type="guid" value="545582f5-e67f-4640-8971-c6b43c273973"/> Tag KANALA

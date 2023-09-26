@@ -5,12 +5,33 @@
 		<node id="root">
 			<children>
 				<node id="ProgressionDescription">
-					<attribute id="Description" type="FixedString" value="ClassDescriptions_Kanala_Description"/>
-					<attribute id="DisplayName" type="FixedString" value="ClassDescriptions_Kanala_DisplayName"/>
-					<attribute id="Hidden" type="bool" value="false"/>
+					<attribute id="Description" type="TranslatedString" handle="h940adcceg1b07g4fc3g9073g732bb8eaa27f" version="1"/>
+					<attribute id="DisplayName" type="TranslatedString" handle="h4bb63803g9fdag45c2g9fd3g8b63e42429aa" version="1"/>
 					<attribute id="ProgressionTableId" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f"/>
+					<attribute id="Type" type="FixedString" value="Kanala"/>
 					<attribute id="UUID" type="guid" value="c2d41fa7-bc77-44d0-ac22-845742b3110c"/>
 				</node>
+				<node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hb28eba81gbfecg4f9dg990eg9a7deaee0ec5" version="3"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h06425c65g5a1eg4dd1g8613g8be6fd38365c" version="5"/>
+                    <attribute id="ParamMatch" type="FixedString" value="0:WarlockSpellSlot;1:1"/>
+                    <attribute id="Type" type="FixedString" value="ActionResource"/>
+                    <attribute id="UUID" type="guid" value="c36889eb-e4a5-4fba-a9e3-38b582221f77"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="he13e2e47g0014g44cdgbf7cg9e295d712db3" version="3"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hae8be2f3ge703g4de9gb6a5gec812104e828" version="2"/>
+                    <attribute id="ParamMatch" type="FixedString" value="0:WarlockSpellSlot;1:1"/>
+                    <attribute id="ProgressionId" type="guid" value="eac83edc-3593-4562-a920-8e57fdfe12f9"/>
+                    <attribute id="Type" type="FixedString" value="ActionResource"/>
+                    <attribute id="UUID" type="guid" value="1cbd1dcd-5c3d-4a27-b555-7cdd9deea58e"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Hidden" type="bool" value="true"/>
+                    <attribute id="ProgressionTableId" type="guid" value="a7a958f1-d858-4021-9fa7-cf87e7d71377"/>
+                    <attribute id="Type" type="FixedString" value="ActionResourceOverride"/>
+                    <attribute id="UUID" type="guid" value="74c0a2a6-66eb-4008-ad6a-52b17ddf7595"/>
+                </node>
 			</children>
 		</node>
 	</region>

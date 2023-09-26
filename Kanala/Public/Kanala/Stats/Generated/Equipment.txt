@@ -11,7 +11,7 @@ add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "ARM_Boots_Leather"
 add equipmentgroup
-add equipment entry "ARM_ScaleMail_Body"
+add equipment entry "ARM_Kanala_SleevelessOutfit"
 add equipmentgroup
 add equipment entry "ARM_Shield"
 add equipmentgroup
