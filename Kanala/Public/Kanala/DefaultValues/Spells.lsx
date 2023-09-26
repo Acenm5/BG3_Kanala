@@ -5,10 +5,10 @@
         <node id="root">
             <children>
                 <node id="DefaultValue">
-                    <attribute id="Add" type="LSString" value="Arcana;Athletics;History;Insight;Intimidation;Religion;SleightOfHand"/>
+                    <attribute id="Add" type="LSString" value="Zone_BurningHands;Zone_ThunderWave"/>
                     <attribute id="Level" type="int32" value="1"/>
                     <attribute id="TableUUID" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f"/>
-                    <attribute id="UUID" type="guid" value="565aec79-38f0-4051-a0d0-a2acf40d0ea0"/>
+                    <attribute id="UUID" type="guid" value="15e81a27-a92c-4b4b-876c-807f31ec77e4"/>
                 </node>
             </children>
         </node>

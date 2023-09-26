@@ -18,7 +18,7 @@
 					<attribute id="Name" type="FixedString" value="Kanala"/>
 					<attribute id="PrimaryAbility" type="uint8" value="2"/>
 					<attribute id="ProgressionTableUUID" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f"/>
-					<attribute id="SoundClassType" type="FixedString" value="Warlock"/>
+					<attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
 					<attribute id="SpellCastingAbility" type="uint8" value="6"/>
 					<attribute id="SpellList" type="guid" value="ea766b40-e4e5-4edc-9fc4-cbb4af51a5b8"/>
 					<attribute id="UUID" type="guid" value="df552993-507d-4e82-ba64-4f767d3163e8"/>
