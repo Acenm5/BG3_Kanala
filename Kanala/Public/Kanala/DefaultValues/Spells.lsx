@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="1" minor="0" revision="0" build="1"/>
+    <version major="4" minor="0" revision="9" build="319"/>
     <region id="DefaultValues">
         <node id="root">
             <children>
                 <node id="DefaultValue">
-                    <attribute id="Add" type="LSString" value="Zone_BurningHands;Zone_ThunderWave"/>
+                    <attribute id="Add" type="LSString" value="Zone_BurningHands;Zone_ColorSpray"/>
                     <attribute id="Level" type="int32" value="1"/>
                     <attribute id="TableUUID" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f"/>
                     <attribute id="UUID" type="guid" value="15e81a27-a92c-4b4b-876c-807f31ec77e4"/>
