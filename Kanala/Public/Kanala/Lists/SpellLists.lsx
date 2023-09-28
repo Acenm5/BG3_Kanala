@@ -5,6 +5,14 @@
         <node id="root">
             <children>             
                 
+                Cantrips
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Locus Energy as a cantrip"/>
+                    <attribute id="Spells" type="LSString" value="Shout_LocusEnergy"/>
+                    <attribute id="UUID" type="guid" value="e016c261-fc3c-4620-b853-0e34eeb85928"/>
+                </node>
+
                 Spells
 
                 Base Kanala to learn

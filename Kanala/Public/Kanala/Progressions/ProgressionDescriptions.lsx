@@ -11,6 +11,14 @@
 					<attribute id="Type" type="FixedString" value="Kanala"/>
 					<attribute id="UUID" type="guid" value="c2d41fa7-bc77-44d0-ac22-845742b3110c"/>
 				</node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="ha6ab6b62g9d50g4752gb4cbgc16ddc099a23" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0a5b5c11gd659g4fd1g8afdgda660de66fa2" version="1"/>
+                    <attribute id="SelectorId" type="FixedString" value="LocusEnergy"/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="ProgressionTableId" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f"/>
+                    <attribute id="UUID" type="guid" value="94c1ebd9-1c0c-4c8c-b156-e4761142b8c7"/>
+                </node>
 				<node id="ProgressionDescription">
                     <attribute id="Description" type="TranslatedString" handle="hb28eba81gbfecg4f9dg990eg9a7deaee0ec5" version="3"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h06425c65g5a1eg4dd1g8613g8be6fd38365c" version="5"/>

@@ -9,9 +9,9 @@
 					<attribute id="Boosts" type="LSString" value="ActionResource(WarlockSpellSlot,1,1);ProficiencyBonus(SavingThrow,Charisma);ProficiencyBonus(SavingThrow,Constitution);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields)"/>
 					<attribute id="Level" type="uint8" value="1"/>
 					<attribute id="Name" type="LSString" value="Kanala"/>
-					<attribute id="PassivesAdded" type="LSString" value="UnlockedWarlockSpellSlotLevel1"/>
+					<attribute id="PassivesAdded" type="LSString" value="UnlockedWarlockSpellSlotLevel1;LocusEnergy"/>
 					<attribute id="ProgressionType" type="uint8" value="0"/>
-					<attribute id="Selectors" type="LSString" value="SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectSkills(31a3c72e-d604-4503-a921-76f109e3fdbb,2);SelectSpells(ea766b40-e4e5-4edc-9fc4-cbb4af51a5b8,2,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
+					<attribute id="Selectors" type="LSString" value="SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectSkills(31a3c72e-d604-4503-a921-76f109e3fdbb,2);AddSpells(e016c261-fc3c-4620-b853-0e34eeb85928,LocusEnergy,,,AlwaysPrepared);SelectSpells(ea766b40-e4e5-4edc-9fc4-cbb4af51a5b8,2,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
 					<attribute id="TableUUID" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f"/>
 					<attribute id="UUID" type="guid" value="eac83edc-3593-4562-a920-8e57fdfe12f9"/>
 				</node>
