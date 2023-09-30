@@ -13,8 +13,6 @@ add equipment entry "ARM_Boots_Leather"
 add equipmentgroup
 add equipment entry "ARM_Kanala_SleevelessOutfit"
 add equipmentgroup
-add equipment entry "ARM_Shield"
-add equipmentgroup
 add equipment entry "WPN_HandCrossbow"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"

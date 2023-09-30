@@ -16,7 +16,6 @@ data "SpellAnimationIntentType" "Aggressive"
 data "RequirementConditions" "HasWeaponInMainHand()"
 data "RequirementEvents" "OnEquip;OnUnequip"
 data "HitAnimationType" "MagicalNonDamage"
-data "Sheathing" "Melee"
 
 new entry "Shout_LocusEnergy_Acid"
 type "SpellData"
