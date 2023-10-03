@@ -12,6 +12,13 @@
 					<attribute id="UUID" type="guid" value="c2d41fa7-bc77-44d0-ac22-845742b3110c"/>
 				</node>
                 <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h42586002gef55g412bgb872g5c4ea5ef9c0b" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h218a9e1bg8177g487ag8600gac44c4069304" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f"/>
+                    <attribute id="SelectorId" type="FixedString" value="GiftSource"/>
+                    <attribute id="UUID" type="guid" value="3f878ea8-5fc1-4846-84d8-9d31066471a5"/>
+                </node>
+                <node id="ProgressionDescription">
                     <attribute id="Description" type="TranslatedString" handle="ha6ab6b62g9d50g4752gb4cbgc16ddc099a23" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h0a5b5c11gd659g4fd1g8afdgda660de66fa2" version="1"/>
                     <attribute id="SelectorId" type="FixedString" value="LocusEnergy"/>

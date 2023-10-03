@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="307"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="GiftSource_ConjoinedSoul,GiftSource_KanalaProsthesis,GiftSource_LatentEnergy,GiftSource_RelicOfPower,GiftSource_SymbioticCreature,GiftSource_TransformativeSerum"/>
+                    <attribute id="UUID" type="guid" value="c76bfebf-5dab-44ec-b099-7907e261a686"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

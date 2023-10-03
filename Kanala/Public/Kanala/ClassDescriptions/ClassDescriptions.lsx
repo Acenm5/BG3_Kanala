@@ -12,14 +12,12 @@
 					<attribute id="HpPerLevel" type="int32" value="6"/>
 					<attribute id="IsDefaultForUseSpellAction" type="bool" value="true"/>
 					<attribute id="LearningStrategy" type="uint8" value="1"/>
-					
 					<attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Kanala"/>
-					
 					<attribute id="Name" type="FixedString" value="Kanala"/>
 					<attribute id="PrimaryAbility" type="uint8" value="2"/>
 					<attribute id="ProgressionTableUUID" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f"/>
 					<attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
-					<attribute id="SpellCastingAbility" type="uint8" value="6"/>
+					<attribute id="SpellCastingAbility" type="uint8" value="5"/>
 					<attribute id="SpellList" type="guid" value="24d56aaa-20d1-4a39-854d-f9aa1d2a85cb"/>
 					<attribute id="UUID" type="guid" value="df552993-507d-4e82-ba64-4f767d3163e8"/>
 					<children>

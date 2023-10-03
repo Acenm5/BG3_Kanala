@@ -6,19 +6,29 @@
   <content contentuid="h78d2c6f4g1cabg4231ga0d1g5f53d7b32a00" version="1">Layered Leather Armor</content>
   <content contentuid="h64799656g035dg4359gb5e5g74165049fa2d" version="1">A hardened leather surcoat that's heavier than it looks.</content>
 
+  <content contentuid="h218a9e1bg8177g487ag8600gac44c4069304" version="1">Gift Source</content>
+  <content contentuid="h42586002gef55g412bgb872g5c4ea5ef9c0b" version="1">The source of your power determines your early capabilities, your spellcasting ability, and the appearance of your locus - the externalized part of your gift.</content>
+  <content contentuid="hb5ce6c19g3e98g4078g9e19g7db33c5d52cf" version="1">Latent Energy</content>
+  <content contentuid="h54620075g6369g41c1gbdeeg719ada0a9f71" version="1">You are connected to a hidden force that protects you as best it can. While not wearing armour, you add your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; to your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
+  <content contentuid="ha9f957edg7850g43c9g8e64gd759ee4a148f" version="1">Symbiotic Creature</content>
+  <content contentuid="hb4d189bagc616g4368g95bag0fcfdc68a756" version="1">You share your body with a creature that affords you fantastic powers in exchange for fresh food. You can let it consume the remains of a nearby creature to regain hit points.</content>
+
   <content contentuid="ha6ab6b62g9d50g4752gb4cbgc16ddc099a23" version="1">Locus Energy</content>
-	<content contentuid="h0a5b5c11gd659g4fd1g8afdgda660de66fa2" version="1">Your gift supplies you with a locus of power that allows you to empower your weapons.</content>
-  <content contentuid="h7e1f89a0gf744g471bgb73eg94fd07e530df" version="1">Use your locus to imbue the weapon in your main hand with elemental power. It deals an additional 1d4 damage of your choice.</content>
+	<content contentuid="h0a5b5c11gd659g4fd1g8afdgda660de66fa2" version="1">Your gift supplies you with a locus of power that allows you to channel elemental energy into your strikes.</content>
+  <content contentuid="h7e1f89a0gf744g471bgb73eg94fd07e530df" version="1">Use your locus to collect elemental power within your body. You deal an additional 1d4 damage of your choice with weapon attacks, unarmed strikes, and throws.</content>
   <content contentuid="hdab92583g80b0g458agafcfgc98eff8ebe2d" version="1">Locus Energy: Acid</content>
-  <content contentuid="h51ba4ad6g0ffdg4e32g9123g2482af89093a" version="1">Imbue a weapon with corrosive energy. It deals an additional [1].</content>
+  <content contentuid="h51ba4ad6g0ffdg4e32g9123g2482af89093a" version="1">Imbue yourself with corrosive energy. You deal an additional [1].</content>
   <content contentuid="he2318784g93c8g4200g94d6g84f491e82d70" version="1">Locus Energy: Cold</content>
-  <content contentuid="h690ff7b9g9cf5g4069g964bgb66eb12e33fb" version="1">Imbue a weapon with freezing energy. It deals an additional [1].</content>
+  <content contentuid="h690ff7b9g9cf5g4069g964bgb66eb12e33fb" version="1">Imbue yourself with freezing energy. You deal an additional [1].</content>
   <content contentuid="hdf1aa71ag233fg4a07gbed0gd53d5e1adfdc" version="1">Locus Energy: Fire</content>
-  <content contentuid="hf8e69908g6c48g43bag959eg9c9e6dce8dfa" version="1">Imbue a weapon with burning energy. It deals an additional [1].</content>
+  <content contentuid="hf8e69908g6c48g43bag959eg9c9e6dce8dfa" version="1">Imbue yourself with burning energy. You deal an additional [1].</content>
   <content contentuid="hc43c21e2gc121g4c3eg8b1egb39aa42138b8" version="1">Locus Energy: Lightning</content>
-  <content contentuid="h859d2362ga689g41fdgb3c0gf89ba4a68479" version="1">Imbue a weapon with electricity. It deals an additional [1].</content>
+  <content contentuid="h859d2362ga689g41fdgb3c0gf89ba4a68479" version="1">Imbue yourself with electricity. You deal an additional [1].</content>
   <content contentuid="h09355b02g34fbg4153g9224g7241c6741361" version="1">Locus Energy: Thunder</content>
-  <content contentuid="hf95354fag62e3g43f5ga0dagcb1eb90ca795" version="1">Imbue a weapon with booming energy. It deals an additional [1].</content>
-  <content contentuid="h5586c727g15c5g4490gae98gd9199ffb0eee" version="1">Deals an additional [1].</content>
+  <content contentuid="hf95354fag62e3g43f5ga0dagcb1eb90ca795" version="1">Imbue yourself with booming energy. You deal an additional [1].</content>
+  <content contentuid="h5586c727g15c5g4490gae98gd9199ffb0eee" version="1">Deals an additional [1] with weapon attacks, unarmed strikes, and throws.</content>
+
+  <content contentuid="ha07c2b7ag951ag4734g820bg07f85d24f994" version="1">Consume Remains</content>
+  <content contentuid="hcecfe230g2125g41ddg9becgaa00616466f6" version="1">Heal yourself by consuming a corpse with your locus.</content>
 
 </contentList>
