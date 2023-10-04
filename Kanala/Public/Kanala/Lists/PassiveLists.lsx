@@ -8,6 +8,10 @@
                     <attribute id="Passives" type="LSString" value="GiftSource_ConjoinedSoul,GiftSource_KanalaProsthesis,GiftSource_LatentEnergy,GiftSource_RelicOfPower,GiftSource_SymbioticCreature,GiftSource_TransformativeSerum"/>
                     <attribute id="UUID" type="guid" value="c76bfebf-5dab-44ec-b099-7907e261a686"/>
                 </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="LocusForm_Appendage,LocusForm_Dissociation,LocusForm_Flare,LocusForm_Leash,LocusForm_LocusEnergy,LocusForm_LocusWeapon,LocusForm_Mend,LocusForm_Practice,LocusForm_Pull,LocusForm_Trip"/>
+                    <attribute id="UUID" type="guid" value="508131db-0116-482a-8259-72348f5761d6"/>
+                </node>
             </children>
         </node>
     </region>

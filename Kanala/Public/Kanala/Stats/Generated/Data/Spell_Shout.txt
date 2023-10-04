@@ -11,7 +11,7 @@ data "Description" "h7e1f89a0gf744g471bgb73eg94fd07e530df;6"
 data "CastTextEvent" "Cast"
 data "UseCosts" "BonusActionPoint:1"
 data "SpellAnimation" "dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;89b3c338-a117-454c-b34a-2473e5a8bcc5,,;b3253cb1-b621-4c3b-a93d-efb5ed6b2af1,,;cc5b0caf-3ed1-4711-a50d-11dc3f1fdc6a,,;,,;1715b877-4512-472e-9bd0-fd568a112e90,,;,,;,,"
-data "SpellFlags" "IsMelee;IsSpell;HasSomaticComponent;IsLinkedSpellContainer"
+data "SpellFlags" "IsMelee;HasSomaticComponent;IsLinkedSpellContainer"
 data "SpellAnimationIntentType" "Aggressive"
 data "HitAnimationType" "MagicalNonDamage"
 

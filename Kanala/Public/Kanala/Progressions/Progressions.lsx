@@ -11,21 +11,40 @@
 					<attribute id="Name" type="LSString" value="Kanala"/>
 					<attribute id="PassivesAdded" type="LSString" value="UnlockedWarlockSpellSlotLevel1;LocusEnergy"/>
 					<attribute id="ProgressionType" type="uint8" value="0"/>
-					<attribute id="Selectors" type="LSString" value="SelectPassives(c76bfebf-5dab-44ec-b099-7907e261a686,1,GiftSource);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectSkills(31a3c72e-d604-4503-a921-76f109e3fdbb,2);AddSpells(e016c261-fc3c-4620-b853-0e34eeb85928,LocusEnergy,,,AlwaysPrepared);SelectSpells(ea766b40-e4e5-4edc-9fc4-cbb4af51a5b8,2,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
+					<attribute id="Selectors" type="LSString" value="SelectPassives(c76bfebf-5dab-44ec-b099-7907e261a686,1,GiftSource);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectSkills(31a3c72e-d604-4503-a921-76f109e3fdbb,2);SelectSpells(ea766b40-e4e5-4edc-9fc4-cbb4af51a5b8,2,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
 					<attribute id="TableUUID" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f"/>
 					<attribute id="UUID" type="guid" value="eac83edc-3593-4562-a920-8e57fdfe12f9"/>
 				</node>
 				<node id="Progression">
 					<attribute id="AllowImprovement" type="bool" value="false"/>
-					<attribute id="Boosts" type="LSString" value="ActionResource(WarlockSpellSlot,1,1);ProficiencyBonus(SavingThrow,Charisma);ProficiencyBonus(SavingThrow,Constitution);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields)"/>
+					<attribute id="Boosts" type="LSString" value="ActionResource(WarlockSpellSlot,1,1);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields)"/>
 					<attribute id="IsMulticlass" type="bool" value="true"/>
 					<attribute id="Level" type="uint8" value="1"/>
 					<attribute id="Name" type="LSString" value="Kanala"/>
 					<attribute id="PassivesAdded" type="LSString" value="UnlockedWarlockSpellSlotLevel1"/>
 					<attribute id="ProgressionType" type="uint8" value="0"/>
-					<attribute id="Selectors" type="LSString" value="AddSpells(ea766b40-e4e5-4edc-9fc4-cbb4af51a5b8)"/>
+					<attribute id="Selectors" type="LSString" value="SelectPassives(c76bfebf-5dab-44ec-b099-7907e261a686,1,GiftSource);SelectSpells(ea766b40-e4e5-4edc-9fc4-cbb4af51a5b8,2,0,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
 					<attribute id="TableUUID" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f"/>
 					<attribute id="UUID" type="guid" value="c6d58a16-4a2b-4643-992a-fd51e8e13e57"/>
+				</node>
+				<node id="Progression">
+					<attribute id="AllowImprovement" type="bool" value="false"/>
+					<attribute id="Level" type="uint8" value="2"/>
+					<attribute id="Name" type="LSString" value="Kanala"/>
+					<attribute id="ProgressionType" type="uint8" value="0"/>
+					<attribute id="Selectors" type="LSString" value="SelectPassives(508131db-0116-482a-8259-72348f5761d6,3,LocusForms)"/>
+					<attribute id="TableUUID" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f"/>
+					<attribute id="UUID" type="guid" value="725f9af5-d30d-4cc8-8b73-059a3313e90a"/>
+				</node>
+				<node id="Progression">
+					<attribute id="AllowImprovement" type="bool" value="false"/>
+					<attribute id="Level" type="uint8" value="3"/>
+					<attribute id="Name" type="LSString" value="Kanala"/>
+					<attribute id="PassivesAdded" type="LSString" value="LocusEnergy"/>
+					<attribute id="ProgressionType" type="uint8" value="0"/>
+					<attribute id="Selectors" type="LSString" value="AddSpells(e016c261-fc3c-4620-b853-0e34eeb85928,LocusEnergy,,,AlwaysPrepared)"/>
+					<attribute id="TableUUID" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f"/>
+					<attribute id="UUID" type="guid" value="892878c5-0561-4ec3-a80d-bb3391caf38a"/>
 				</node>
 			</children>
 		</node>

@@ -1,0 +1,12 @@
+key "Level1","20"
+
+key "Level2","40"
+
+key "Level3","60"
+
+key "Level4","80"
+
+key "Level5","120"
+
+key "MaxXPLevel","5"
+
