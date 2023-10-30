@@ -1,0 +1,4 @@
+new entry "Zone_LW_Cleave"
+type "SpellData"
+data "SpellType" "Zone"
+using "Zone_Cleave"

@@ -12,10 +12,11 @@
   <content contentuid="h54620075g6369g41c1gbdeeg719ada0a9f71" version="1">You are connected to a hidden force that protects you as best it can. While not wearing armour, you add your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; to your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
   <content contentuid="ha9f957edg7850g43c9g8e64gd759ee4a148f" version="1">Symbiotic Creature</content>
   <content contentuid="hb4d189bagc616g4368g95bag0fcfdc68a756" version="1">You share your body with a creature that affords you fantastic powers in exchange for fresh food. You can let it consume the remains of a nearby creature to regain hit points.</content>
-
-  <content contentuid="h015235f3g23ccg439egbfa2gc2684c91b37a" version="1">Locus Forms</content>
-  <content contentuid="hd77bfd7bg2d0fg4958g9836ga56ca27e3451" version="1">Your locus is more than an extension of your gift: it is a tool for solving the countless obstacles you face as an adventurer.</content>
+  <content contentuid="ha07c2b7ag951ag4734g820bg07f85d24f994" version="1">Consume Remains</content>
+  <content contentuid="hcecfe230g2125g41ddg9becgaa00616466f6" version="1">Heal yourself by consuming a corpse with your locus.</content>
   
+  <content contentuid="h015235f3g23ccg439egbfa2gc2684c91b37a" version="1">Locus Forms</content>
+  <content contentuid="hd77bfd7bg2d0fg4958g9836ga56ca27e3451" version="1">Your locus is more than an extension of your gift: it is a tool for solving the countless obstacles you face as an adventurer.</content> 
   <content contentuid="ha6ab6b62g9d50g4752gb4cbgc16ddc099a23" version="1">Locus Energy</content>
 	<content contentuid="h0a5b5c11gd659g4fd1g8afdgda660de66fa2" version="1">Your gift supplies you with a locus of power that allows you to channel elemental energy into your strikes.</content>
   <content contentuid="h7e1f89a0gf744g471bgb73eg94fd07e530df" version="1">Use your locus to collect elemental power within your body. You deal an additional 1d4 damage of your choice with weapon attacks, unarmed strikes, and throws.</content>
@@ -30,8 +31,7 @@
   <content contentuid="h09355b02g34fbg4153g9224g7241c6741361" version="1">Locus Energy: Thunder</content>
   <content contentuid="hf95354fag62e3g43f5ga0dagcb1eb90ca795" version="1">Imbue yourself with booming energy. You deal an additional [1].</content>
   <content contentuid="h5586c727g15c5g4490gae98gd9199ffb0eee" version="1">Deals an additional [1] with weapon attacks, unarmed strikes, and throws.</content>
-
-  <content contentuid="ha07c2b7ag951ag4734g820bg07f85d24f994" version="1">Consume Remains</content>
-  <content contentuid="hcecfe230g2125g41ddg9becgaa00616466f6" version="1">Heal yourself by consuming a corpse with your locus.</content>
+  <content contentuid="h6e1e26begfcc9g47e2g8753gf14d1d88a2d3" version="1">Locus Weapon</content>
+  <content contentuid="h1f926855gb2f2g4af7g9321g5fa59d431e65" version="1">Your locus becomes a weapon, allowing you to use all default melee weapon actions once per short rest, regardless of your equipped weapon.</content>
 
 </contentList>

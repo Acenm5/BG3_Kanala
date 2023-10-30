@@ -1,0 +1,4 @@
+new entry "Rush_LW_SpringAttack"
+type "SpellData"
+data "SpellType" "Rush"
+using "Rush_SpringAttack"
