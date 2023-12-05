@@ -3,8 +3,10 @@
   <content contentuid="h4bb63803g9fdag45c2g9fd3g8b63e42429aa" version="1">Kanala</content>
   <content contentuid="h940adcceg1b07g4fc3g9073g732bb8eaa27f" version="1">Kanalas utilize powerful gifts given to them by a creature, object, or intangible force that has become incorporated into their very bodies and souls.</content>
 
+
   <content contentuid="h78d2c6f4g1cabg4231ga0d1g5f53d7b32a00" version="1">Layered Leather Armor</content>
   <content contentuid="h64799656g035dg4359gb5e5g74165049fa2d" version="1">A hardened leather surcoat that's heavier than it looks.</content>
+
 
   <content contentuid="h218a9e1bg8177g487ag8600gac44c4069304" version="1">Gift Source</content>
   <content contentuid="h42586002gef55g412bgb872g5c4ea5ef9c0b" version="1">The source of your power determines your early capabilities, your spellcasting ability, and the appearance of your locus - the externalized part of your gift.</content>
@@ -15,8 +17,10 @@
   <content contentuid="ha07c2b7ag951ag4734g820bg07f85d24f994" version="1">Consume Remains</content>
   <content contentuid="hcecfe230g2125g41ddg9becgaa00616466f6" version="1">Heal yourself by consuming a corpse with your locus.</content>
   
+
   <content contentuid="h015235f3g23ccg439egbfa2gc2684c91b37a" version="1">Locus Forms</content>
   <content contentuid="hd77bfd7bg2d0fg4958g9836ga56ca27e3451" version="1">Your locus is more than an extension of your gift: it is a tool for solving the countless obstacles you face as an adventurer.</content> 
+  
   <content contentuid="ha6ab6b62g9d50g4752gb4cbgc16ddc099a23" version="1">Locus Energy</content>
 	<content contentuid="h0a5b5c11gd659g4fd1g8afdgda660de66fa2" version="1">Your gift supplies you with a locus of power that allows you to channel elemental energy into your strikes.</content>
   <content contentuid="h7e1f89a0gf744g471bgb73eg94fd07e530df" version="1">Use your locus to collect elemental power within your body. You deal an additional 1d4 damage of your choice with weapon attacks, unarmed strikes, and throws.</content>
@@ -31,7 +35,15 @@
   <content contentuid="h09355b02g34fbg4153g9224g7241c6741361" version="1">Locus Energy: Thunder</content>
   <content contentuid="hf95354fag62e3g43f5ga0dagcb1eb90ca795" version="1">Imbue yourself with booming energy. You deal an additional [1].</content>
   <content contentuid="h5586c727g15c5g4490gae98gd9199ffb0eee" version="1">Deals an additional [1] with weapon attacks, unarmed strikes, and throws.</content>
+  
   <content contentuid="h6e1e26begfcc9g47e2g8753gf14d1d88a2d3" version="1">Locus Weapon</content>
-  <content contentuid="h1f926855gb2f2g4af7g9321g5fa59d431e65" version="1">Your locus becomes a weapon, allowing you to use all default melee weapon actions once per short rest, regardless of your equipped weapon.</content>
+  <content contentuid="h1f926855gb2f2g4af7g9321g5fa59d431e65" version="1">Your transmutative power can alter your equipped weapon, allowing it to perform more kinds of weapon actions.</content>
+  <content contentuid="hb4ef0c7egd255g4d32ga93ag43e66a9cb8cd" version="1">Add a blunt, sharp, or pointed aspect to your equipped weapon, allowing it to perform the appropriate weapon actions.</content>
+  <content contentuid="h2d96af23g6fdbg48efg9826g378555b9de2d" version="1">Locus Weapon: Pointed</content>
+  <content contentuid="h02cb3eaag6223g42ddg9856g472eefd6f627" version="1">You can perform the following weapon actions: Brace, Disarming Strike, Flourish, Piercing Strike, and Rush Attack.</content>
+  <content contentuid="h2fa8a795gd21ag402bgac05gabd73af3890a" version="1">Locus Weapon: Sharp</content>
+  <content contentuid="h0a01c534g398fg4329g8334gc82aa8e0367a" version="1">You can perform the following weapon actions: Cleave, Lacerate, Maiming Strike, Pommel Strike, and Prepare.</content>
+  <content contentuid="h07c02817g1ed3g4d30gb787ge1bc72aee148" version="1">Locus Weapon: Blunt</content>
+  <content contentuid="he6a872b0g93bag49bdg8bbeg2dd4d2fea118" version="1">You can perform the following weapon actions: Backbreaker, Concussive Smash, Heartstopper, Topple, and Weakening Strike.</content>
 
 </contentList>
