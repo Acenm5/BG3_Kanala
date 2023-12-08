@@ -46,4 +46,7 @@
   <content contentuid="h07c02817g1ed3g4d30gb787ge1bc72aee148" version="1">Locus Weapon: Blunt</content>
   <content contentuid="he6a872b0g93bag49bdg8bbeg2dd4d2fea118" version="1">You can perform the following weapon actions: Backbreaker, Concussive Smash, Heartstopper, Topple, and Weakening Strike.</content>
 
+  <content contentuid="hc9fe1205gefb1g4956gabffgfed2cd220be1" version="1">Locus Form: Bound</content>
+  <content contentuid="h6842966bg57bcg41e1gba51g498c1d4795c0" version="4">Your locus empowers your legs to help you make great leaps.&lt;br&gt;&lt;br&gt;Your &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Jump&lt;/LSTag&gt; distance is increased by [1].</content>
+
 </contentList>
