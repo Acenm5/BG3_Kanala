@@ -23,7 +23,7 @@
   
   <content contentuid="ha6ab6b62g9d50g4752gb4cbgc16ddc099a23" version="1">Locus Energy</content>
 	<content contentuid="h0a5b5c11gd659g4fd1g8afdgda660de66fa2" version="1">Your gift supplies you with a locus of power that allows you to channel elemental energy into your strikes.</content>
-  <content contentuid="h7e1f89a0gf744g471bgb73eg94fd07e530df" version="1">Use your locus to collect elemental power within your body. You deal an additional 1d4 damage of your choice with weapon attacks, unarmed strikes, and throws.</content>
+  <content contentuid="h7e1f89a0gf744g471bgb73eg94fd07e530df" version="1">Use your locus to collect elemental power within your body. You deal an additional 1d4 damage of your choice with weapon attacks, unarmed strikes, and throws for 2 turns.</content>
   <content contentuid="hdab92583g80b0g458agafcfgc98eff8ebe2d" version="1">Locus Energy: Acid</content>
   <content contentuid="h51ba4ad6g0ffdg4e32g9123g2482af89093a" version="1">Imbue yourself with corrosive energy. You deal an additional [1].</content>
   <content contentuid="he2318784g93c8g4200g94d6g84f491e82d70" version="1">Locus Energy: Cold</content>
@@ -67,5 +67,9 @@
   <content contentuid="hf69b09fcg73fdg489eg8ff2gb6674bf3e526" version="1">Flare: Send</content>
 	<content contentuid="h4fb2a2dcg9491g499bga068g3215e2e839a7" version="1">Sending the flare this turn doesn't cost a bonus action. Sending it on subsequent turns will cost a bonus action.</content>
   <content contentuid="h2b30b33bg2e54g4219gb2f8g18e278805202" version="1">Flare: Dismiss</content>
+
+  <content contentuid="h13081276g1f1cg4acaga28egc814b7d51ae9" version="1">Locus Cantrips</content>
+  <content contentuid="ha76975d8g5a3cg4fe5g93bbgbac475f40f54" version="1">You'll use a weapon when you need to, but you prefer to directly use your locus to harm your foes.</content>
+  
 
 </contentList>
