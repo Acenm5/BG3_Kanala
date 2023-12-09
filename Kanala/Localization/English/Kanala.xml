@@ -46,7 +46,7 @@
   <content contentuid="h07c02817g1ed3g4d30gb787ge1bc72aee148" version="1">Locus Weapon: Blunt</content>
   <content contentuid="he6a872b0g93bag49bdg8bbeg2dd4d2fea118" version="1">You can perform the following weapon actions: Backbreaker, Concussive Smash, Heartstopper, Topple, and Weakening Strike.</content>
 
-  <content contentuid="hc9fe1205gefb1g4956gabffgfed2cd220be1" version="1">Bound</content>
+  <content contentuid="hc9fe1205gefb1g4956gabffgfed2cd220be1" version="1">Leap</content>
   <content contentuid="h6842966bg57bcg41e1gba51g498c1d4795c0" version="1">Your locus empowers your legs to help you make great leaps.&lt;br&gt;&lt;br&gt;Your &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Jump&lt;/LSTag&gt; distance is increased by [1].</content>
 
   <content contentuid="hc05f4965gf630g47eeg8413g9c4142919472" version="1">Guise</content>
@@ -59,5 +59,13 @@
   <content contentuid="h1cf50e58g9831g42dcgaa9cgc054d924f594" version="1">Trip</content>
   <content contentuid="h6f900017gf7efg407fgacbfg596d4ac3da63" version="1">The power within your locus grasps at enemies who attempt to escape you.</content>
   <content contentuid="haba6579ag4d75g4f52gb7a5g491443e9fbb5" version="1">Attack an enemy moving out of your reach with your locus and possibly knock it &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+
+  <content contentuid="h3e516ba4g2122g4565g9209gc5e6c5e560d5" version="1">Flare</content>
+  <content contentuid="h101b74e8g1dddg4386gaa63gc00410c15920" version="1">A light can be summoned from locus into your hand or a nearby location, providing illumation wherever it's needed.</content>
+  <content contentuid="had946dcegb337g49e3g906eg6cb1f27b7984" version="1">Generate a light that can be sent to a point within [1].</content>
+  <content contentuid="hd2a21dfag2efcg477eg97e4gcb07b70b77a5" version="1">You're holding a really nifty light that can be sent to a point within [1].</content>
+  <content contentuid="hf69b09fcg73fdg489eg8ff2gb6674bf3e526" version="1">Flare: Send</content>
+	<content contentuid="h4fb2a2dcg9491g499bga068g3215e2e839a7" version="1">Sending the flare this turn doesn't cost a bonus action. Sending it on subsequent turns will cost a bonus action.</content>
+  <content contentuid="h2b30b33bg2e54g4219gb2f8g18e278805202" version="1">Flare: Dismiss</content>
 
 </contentList>
