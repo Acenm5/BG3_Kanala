@@ -56,4 +56,8 @@
   <content contentuid="h0898a582g5142g4c64g93a8g1d21f1fa09ea" version="1">Tendrils can sprout from your locus, allowing you to pull all but the biggest creatures and items closer to you.</content>
   <content contentuid="h6be4f61bg2542g4b24ga591gcd37f7f6d7a1" version="1">Pulls the target [1] closer to you.</content>
 
+  <content contentuid="h1cf50e58g9831g42dcgaa9cgc054d924f594" version="1">Trip</content>
+  <content contentuid="h6f900017gf7efg407fgacbfg596d4ac3da63" version="1">The power within your locus grasps at enemies who attempt to escape you.</content>
+  <content contentuid="haba6579ag4d75g4f52gb7a5g491443e9fbb5" version="1">Attack an enemy moving out of your reach with your locus and possibly knock it &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+
 </contentList>
