@@ -11,7 +11,7 @@
   <content contentuid="h218a9e1bg8177g487ag8600gac44c4069304" version="1">Gift Source</content>
   <content contentuid="h42586002gef55g412bgb872g5c4ea5ef9c0b" version="1">The source of your power determines your early capabilities, your spellcasting ability, and the appearance of your locus - the externalized part of your gift.</content>
   <content contentuid="hb5ce6c19g3e98g4078g9e19g7db33c5d52cf" version="1">Latent Energy</content>
-  <content contentuid="h54620075g6369g41c1gbdeeg719ada0a9f71" version="1">You are connected to a hidden force that protects you as best it can. While not wearing armour, you add your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; to your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
+  <content contentuid="h54620075g6369g41c1gbdeeg719ada0a9f71" version="1">You are connected to a hidden force that protects you as best it can. While not wearing armour, you add your Constitution &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; to your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
   <content contentuid="ha9f957edg7850g43c9g8e64gd759ee4a148f" version="1">Symbiotic Creature</content>
   <content contentuid="hb4d189bagc616g4368g95bag0fcfdc68a756" version="1">You share your body with a creature that affords you fantastic powers in exchange for fresh food. You can let it consume the remains of a nearby creature to regain hit points.</content>
   <content contentuid="ha07c2b7ag951ag4734g820bg07f85d24f994" version="1">Consume Remains</content>
@@ -46,7 +46,11 @@
   <content contentuid="h07c02817g1ed3g4d30gb787ge1bc72aee148" version="1">Locus Weapon: Blunt</content>
   <content contentuid="he6a872b0g93bag49bdg8bbeg2dd4d2fea118" version="1">You can perform the following weapon actions: Backbreaker, Concussive Smash, Heartstopper, Topple, and Weakening Strike.</content>
 
-  <content contentuid="hc9fe1205gefb1g4956gabffgfed2cd220be1" version="1">Locus Form: Bound</content>
-  <content contentuid="h6842966bg57bcg41e1gba51g498c1d4795c0" version="4">Your locus empowers your legs to help you make great leaps.&lt;br&gt;&lt;br&gt;Your &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Jump&lt;/LSTag&gt; distance is increased by [1].</content>
+  <content contentuid="hc9fe1205gefb1g4956gabffgfed2cd220be1" version="1">Bound</content>
+  <content contentuid="h6842966bg57bcg41e1gba51g498c1d4795c0" version="1">Your locus empowers your legs to help you make great leaps.&lt;br&gt;&lt;br&gt;Your &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Jump&lt;/LSTag&gt; distance is increased by [1].</content>
+
+  <content contentuid="h6ead25b7g9db1g4e41g8093ga7b68d9ab07e" version="1">Pull</content>
+  <content contentuid="h0898a582g5142g4c64g93a8g1d21f1fa09ea" version="1">Tendrils can sprout from your locus, allowing you to pull all but the biggest creatures closer to you.</content>
+  <content contentuid="h6be4f61bg2542g4b24ga591gcd37f7f6d7a1" version="1">Pulls the creature [1] closer to you.</content>
 
 </contentList>
