@@ -9,7 +9,7 @@
                     <attribute id="UUID" type="guid" value="c76bfebf-5dab-44ec-b099-7907e261a686"/>
                 </node>
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="LocusForm_Bound,LocusForm_LocusEnergy,LocusForm_LocusWeapon, LocusForm_Pull"/>
+                    <attribute id="Passives" type="LSString" value="LocusForm_Bound,LocusForm_Guise,LocusForm_LocusEnergy,LocusForm_LocusWeapon, LocusForm_Pull"/>
                     <attribute id="UUID" type="guid" value="508131db-0116-482a-8259-72348f5761d6"/>
                 </node>
             </children>

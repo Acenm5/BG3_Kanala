@@ -49,8 +49,11 @@
   <content contentuid="hc9fe1205gefb1g4956gabffgfed2cd220be1" version="1">Bound</content>
   <content contentuid="h6842966bg57bcg41e1gba51g498c1d4795c0" version="1">Your locus empowers your legs to help you make great leaps.&lt;br&gt;&lt;br&gt;Your &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Jump&lt;/LSTag&gt; distance is increased by [1].</content>
 
+  <content contentuid="hc05f4965gf630g47eeg8413g9c4142919472" version="1">Guise</content>
+  <content contentuid="ha4b27a4eg6c26g45a0gbe13g52b5cf441807" version="1">Mildly suggestive magic can be released by your locus, allowing you to temporarily gain a creature's favor or cause those around you to hear your voice at a booming volume.</content>
+
   <content contentuid="h6ead25b7g9db1g4e41g8093ga7b68d9ab07e" version="1">Pull</content>
-  <content contentuid="h0898a582g5142g4c64g93a8g1d21f1fa09ea" version="1">Tendrils can sprout from your locus, allowing you to pull all but the biggest creatures closer to you.</content>
-  <content contentuid="h6be4f61bg2542g4b24ga591gcd37f7f6d7a1" version="1">Pulls the creature [1] closer to you.</content>
+  <content contentuid="h0898a582g5142g4c64g93a8g1d21f1fa09ea" version="1">Tendrils can sprout from your locus, allowing you to pull all but the biggest creatures and items closer to you.</content>
+  <content contentuid="h6be4f61bg2542g4b24ga591gcd37f7f6d7a1" version="1">Pulls the target [1] closer to you.</content>
 
 </contentList>
