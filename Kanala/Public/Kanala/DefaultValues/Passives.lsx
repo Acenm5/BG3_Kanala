@@ -5,7 +5,7 @@
         <node id="root">
             <children>
                 <node id="DefaultValue">
-                    <attribute id="Add" type="LSString" value="GiftSource_LatentEnergy"/>
+                    <attribute id="Add" type="LSString" value="GiftSource_KanalaProsthesis"/>
                     <attribute id="Level" type="int32" value="1"/>
                     <attribute id="SelectorId" type="LSString" value="GiftSource"/>
                     <attribute id="TableUUID" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f"/>

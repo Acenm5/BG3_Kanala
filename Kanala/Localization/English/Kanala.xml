@@ -9,13 +9,21 @@
 
 
   <content contentuid="h218a9e1bg8177g487ag8600gac44c4069304" version="1">Gift Source</content>
-  <content contentuid="h42586002gef55g412bgb872g5c4ea5ef9c0b" version="1">The source of your power determines your early capabilities, your spellcasting ability, and the appearance of your locus - the externalized part of your gift.</content>
+  <content contentuid="h42586002gef55g412bgb872g5c4ea5ef9c0b" version="1">The source of your power determines your early capabilities and the (imagined) appearance of your locus - the externalized part of your gift.</content>
+  <content contentuid="h7db816bdgb4abg4f69g8a97g884408854186" version="1">Conjoined Soul</content>
+  <content contentuid="h94a09a87gc445g498fg9ca8g16026635e11b" version="1">The soul of another entity, perhaps the ghost of an ancient hero or the vengeful spirit of a long-dead culture, has become entwined with your own. Its &lt;LSTag Type="Spell" Tooltip="Target_Guidance"&gt;Guidance&lt;/LSTag&gt; is often invaluable.</content>
   <content contentuid="hb5ce6c19g3e98g4078g9e19g7db33c5d52cf" version="1">Latent Energy</content>
   <content contentuid="h54620075g6369g41c1gbdeeg719ada0a9f71" version="1">You are connected to a hidden force that protects you as best it can. While not wearing armour, you add your Constitution &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; to your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
   <content contentuid="ha9f957edg7850g43c9g8e64gd759ee4a148f" version="1">Symbiotic Creature</content>
   <content contentuid="hb4d189bagc616g4368g95bag0fcfdc68a756" version="1">You share your body with a creature that affords you fantastic powers in exchange for fresh food. You can let it consume the remains of a nearby creature to regain hit points.</content>
   <content contentuid="ha07c2b7ag951ag4734g820bg07f85d24f994" version="1">Consume Remains</content>
   <content contentuid="hcecfe230g2125g41ddg9becgaa00616466f6" version="1">Heal yourself by consuming a corpse with your locus.</content>
+  <content contentuid="h034a3c51ge005g471egb207gcb0c6d4f9b17" version="1">Transformative Serum</content>
+  <content contentuid="hdb740305g86f8g48f2ga868gedce533f9c6a" version="1">An experimental elixir has altered the makeup of your body, giving you great strength and a proclivity for heavier equipment. As a result, you have &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Heavy Armour.</content>
+  <content contentuid="h421d339dg3bffg4541g83ffg05c9a3d4fe44" version="1">Relic of Power</content>
+  <content contentuid="h3c132cbfg3389g4505ga524g07b31b80ffbc" version="1">A strange artifact has chosen, or been forced, to select you as the heir to its power. It allows you to &lt;LSTag Type="Spell" Tooltip="Target_SpeakWithDead"&gt;Speak With Dead&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Shout_SpeakWithAnimals"&gt;Speak With Animals&lt;/LSTag&gt;.</content>
+  <content contentuid="h12b091f9gc45ag4b38ga318gfedcb2e1fac6" version="1">Kanala Prosthesis</content>
+  <content contentuid="h2efcdc02ge4b2g49d3g8ccbg8b18ebd26d4f" version="1">At least one of your body parts has been replaced with a magical prosthesis that heightens your senses. You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt; and &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt;.</content>
   
 
   <content contentuid="h015235f3g23ccg439egbfa2gc2684c91b37a" version="1">Locus Forms</content>
