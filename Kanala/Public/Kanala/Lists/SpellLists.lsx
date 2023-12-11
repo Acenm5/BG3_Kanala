@@ -5,7 +5,7 @@
         <node id="root">
             <children>             
                 
-                Cantrips
+                Cantrips - not used with current implementation
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Locus Energy as a cantrip"/>
@@ -13,22 +13,30 @@
                     <attribute id="UUID" type="guid" value="e016c261-fc3c-4620-b853-0e34eeb85928"/>
                 </node>
 
-                Spells
-
-                Base Kanala to learn
+                Kanala Base Spells
 
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Kanala spells level 1"/>
                     <attribute id="Spells" type="LSString" value="Zone_BurningHands;Zone_ColorSpray;Target_CureWounds;Shout_DisguiseSelf;Shout_ExpeditiousRetreat;Target_InflictWounds;Target_Jump;Target_Longstrider;Target_MageArmor;Target_ProtectionFromEvilAndGood;Shout_Shield_Sorcerer;Zone_Thunderwave"/>
                     <attribute id="UUID" type="guid" value="ea766b40-e4e5-4edc-9fc4-cbb4af51a5b8"/>
                 </node>
-
-                All Spells
-
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Kanala spell scroll list"/>
                     <attribute id="Spells" type="LSString" value="Zone_BurningHands;Zone_ColorSpray;Target_CureWounds;Shout_DisguiseSelf;Shout_ExpeditiousRetreat;Target_InflictWounds;Target_Jump;Target_Longstrider;Target_MageArmor;Target_ProtectionFromEvilAndGood;Shout_Shield_Sorcerer;Zone_Thunderwave"/>
                     <attribute id="UUID" type="guid" value="24d56aaa-20d1-4a39-854d-f9aa1d2a85cb"/>
+                </node>
+
+                Lionheart Spells
+
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Lionheart spell list L1"/>
+                    <attribute id="Spells" type="LSString" value="Zone_BurningHands;Zone_ColorSpray;Target_Command_Container;Target_CureWounds;Shout_DisguiseSelf;Shout_ExpeditiousRetreat;Target_Heroism;Target_InflictWounds;Target_Jump;Target_Longstrider;Target_MageArmor;Target_ProtectionFromEvilAndGood;Shout_Shield_Sorcerer;Zone_Thunderwave"/>
+                    <attribute id="UUID" type="guid" value="89806c55-f8cc-4ca7-a40a-becf611953c3"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Kanala, Lionheart spell scroll list"/>
+                    <attribute id="Spells" type="LSString" value="Zone_BurningHands;Zone_ColorSpray;Target_Command_Container;Target_CureWounds;Shout_DisguiseSelf;Shout_ExpeditiousRetreat;Target_Heroism;Target_InflictWounds;Target_Jump;Target_Longstrider;Target_MageArmor;Target_ProtectionFromEvilAndGood;Shout_Shield_Sorcerer;Zone_Thunderwave"/>
+                    <attribute id="UUID" type="guid" value="bfc27038-96be-4e70-a8d5-9e7aaec7785f"/>
                 </node>
 
 			</children>

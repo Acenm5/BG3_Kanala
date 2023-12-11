@@ -29,6 +29,25 @@
                         </node>
                     </children>
 				</node>
+				<node id="ClassDescription">
+                    <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+                    <attribute id="Description" type="TranslatedString" handle="h5c1b332dgdc25g4ed6gb6acgcc79410a2c7d" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9072551egf208g4745g8f21ga32af288cfa3" version="1"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="Name" type="FixedString" value="Lionheart"/>
+                    <attribute id="ParentGuid" type="guid" value="df552993-507d-4e82-ba64-4f767d3163e8"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="2"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="fadf2dd1-bd60-4c57-8df7-889778c9c18a"/>
+                    <attribute id="SoundClassType" type="FixedString" value="Sorcerer"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="6"/>
+                    <attribute id="SpellList" type="guid" value="bfc27038-96be-4e70-a8d5-9e7aaec7785f"/>
+                    <attribute id="UUID" type="guid" value="35554d89-7a0e-4a77-82e1-6de0c91c6797"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="fb535e69-e786-4d62-8d3e-bcddb73cc7b3"/> Tag LIONHEART
+                        </node>
+                    </children>
+                </node>
 			</children>
 		</node>
 	</region>

@@ -41,12 +41,28 @@
 					<attribute id="Boosts" type="LSString" value="ActionResource(WarlockSpellSlot,1,1)"/>
 					<attribute id="Level" type="uint8" value="3"/>
 					<attribute id="Name" type="LSString" value="Kanala"/>
-					<attribute id="PassivesAdded" type="LSString" value="LocusEnergy"/>
 					<attribute id="ProgressionType" type="uint8" value="0"/>
-					<attribute id="Selectors" type="LSString" value="AddSpells(e016c261-fc3c-4620-b853-0e34eeb85928,LocusEnergy,,,AlwaysPrepared)"/>
 					<attribute id="TableUUID" type="guid" value="f6766bf4-81c3-431e-a1be-6099d1a2de6f"/>
 					<attribute id="UUID" type="guid" value="892878c5-0561-4ec3-a80d-bb3391caf38a"/>
+					<children>
+                        <node id="SubClasses">
+                            <children>
+                                <node id="SubClass">
+                                    <attribute id="Object" type="guid" value="35554d89-7a0e-4a77-82e1-6de0c91c6797"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
 				</node>
+				<node id="Progression">
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="Lionheart"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(89806c55-f8cc-4ca7-a40a-becf611953c3,1,2,,,e9127b70-22b7-42a1-b172-d02f828f260a)"/>
+                    <attribute id="TableUUID" type="guid" value="fadf2dd1-bd60-4c57-8df7-889778c9c18a"/>
+                    <attribute id="UUID" type="guid" value="8048b6b7-e369-4e4e-a546-7a64cf68a90e"/>
+                </node>
 			</children>
 		</node>
 	</region>

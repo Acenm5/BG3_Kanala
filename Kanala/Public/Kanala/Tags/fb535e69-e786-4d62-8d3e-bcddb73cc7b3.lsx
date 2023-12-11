@@ -3,12 +3,12 @@
 	<version major="4" minor="0" revision="9" build="319"/>
 	<region id="Tags">
 		<node id="Tags">
-			<attribute id="Description" type="LSString" value="Kanalas share their body with another sentient thing (in addition to the mindflayer tadpole)." />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="h940adcceg1b07g4fc3g9073g732bb8eaa27f" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="h4bb63803g9fdag45c2g9fd3g8b63e42429aa" version="1" />
+			<attribute id="Description" type="LSString" value="The Bond of the Lionheart is a relationship that spurs one to action." />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h5c1b332dgdc25g4ed6gb6acgcc79410a2c7d" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h9072551egf208g4745g8f21ga32af288cfa3" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="KANALA" />
-			<attribute id="UUID" type="guid" value="545582f5-e67f-4640-8971-c6b43c273973" />
+			<attribute id="Name" type="FixedString" value="LIONHEART" />
+			<attribute id="UUID" type="guid" value="fb535e69-e786-4d62-8d3e-bcddb73cc7b3" />
 			<children>
 				<node id="Categories">
 					<children>
