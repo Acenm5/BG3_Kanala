@@ -12,7 +12,7 @@ data "DisplayName" "h12b091f9gc45ag4b38ga318gfedcb2e1fac6;1"
 data "Description" "h2efcdc02ge4b2g49d3g8ccbg8b18ebd26d4f;3"
 data "Icon" "Spell_Divination_SeeInvisibility"
 data "Properties" "Highlighted"
-data "Boosts" "ProficiencyBonus(Skill,Investigation);ProficiencyBonus(Skill,Perception)"
+data "Boosts" "ProficiencyBonus(Skill,Survival);ProficiencyBonus(Skill,Perception)"
 
 new entry "GiftSource_LatentEnergy"
 type "PassiveData"

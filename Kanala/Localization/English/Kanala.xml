@@ -23,7 +23,7 @@
   <content contentuid="h421d339dg3bffg4541g83ffg05c9a3d4fe44" version="1">Relic of Power</content>
   <content contentuid="h3c132cbfg3389g4505ga524g07b31b80ffbc" version="1">A strange artifact has chosen, or been forced, to select you as the heir to its power. It allows you to &lt;LSTag Type="Spell" Tooltip="Target_SpeakWithDead"&gt;Speak With Dead&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Shout_SpeakWithAnimals"&gt;Speak With Animals&lt;/LSTag&gt;.</content>
   <content contentuid="h12b091f9gc45ag4b38ga318gfedcb2e1fac6" version="1">Kanala Prosthesis</content>
-  <content contentuid="h2efcdc02ge4b2g49d3g8ccbg8b18ebd26d4f" version="1">At least one of your body parts has been replaced with a magical prosthesis that heightens your senses. You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt; and &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt;.</content>
+  <content contentuid="h2efcdc02ge4b2g49d3g8ccbg8b18ebd26d4f" version="1">At least one of your body parts has been replaced with a magical prosthesis that heightens your senses. You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt; and &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt;.</content>
   
 
   <content contentuid="h015235f3g23ccg439egbfa2gc2684c91b37a" version="1">Locus Forms</content>
@@ -62,7 +62,7 @@
 
   <content contentuid="h6ead25b7g9db1g4e41g8093ga7b68d9ab07e" version="1">Pull</content>
   <content contentuid="h0898a582g5142g4c64g93a8g1d21f1fa09ea" version="1">Tendrils can sprout from your locus, allowing you to pull all but the biggest creatures and items closer to you.</content>
-  <content contentuid="h6be4f61bg2542g4b24ga591gcd37f7f6d7a1" version="1">Pulls the target [1] closer to you.</content>
+  <content contentuid="h6be4f61bg2542g4b24ga591gcd37f7f6d7a1" version="1">Attempt to pull the target [1] closer to you. Your chances depend on your Athletics, and are higher if you're hidden or invisible.</content>
 
   <content contentuid="h1cf50e58g9831g42dcgaa9cgc054d924f594" version="1">Trip</content>
   <content contentuid="h6f900017gf7efg407fgacbfg596d4ac3da63" version="1">The power within your locus grasps at enemies who attempt to escape you.</content>
